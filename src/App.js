@@ -6,6 +6,7 @@ import {Component} from 'react'
 import React from 'react';
 import Image from './components/image';
 import Link from './components/link';
+import Button from './components/button';
 
 class App extends Component {
   render() {
@@ -14,11 +15,10 @@ class App extends Component {
         
         <Greet></Greet>
         <Para age='18'></Para>
-        <a className='text-orange-500' href="https://www.youtube.com/channel/UCzJuPvglj46GjRDtAk89VHA"> SUBSCRIBE TO ME YOUTUBER CHANNOL</a>
+        <a className='text-slate-500 hover:text-red-500' href="https://www.youtube.com/channel/UCzJuPvglj46GjRDtAk89VHA"> SUBSCRIBE TO ME YOUTUBER CHANNOL      </a>
+        
+        <Button></Button>
         <Image></Image>
-        <button onClick={Link}>press me daddy</button>
-        
-        
       </div>
     )
   }
