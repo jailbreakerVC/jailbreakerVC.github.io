@@ -6,14 +6,18 @@ import {Component} from 'react'
 import React from 'react';
 import Image from './components/image';
 import Link from './components/link';
+
 class App extends Component {
   render() {
     return (
       <div className="App">
         
         <Greet></Greet>
-        <Para></Para>
+        <Para age='18'></Para>
+        <a className='text-orange-500' href="https://www.youtube.com/channel/UCzJuPvglj46GjRDtAk89VHA"> SUBSCRIBE TO ME YOUTUBER CHANNOL</a>
         <Image></Image>
+        <button onClick={Link}>press me daddy</button>
+        
         
       </div>
     )
