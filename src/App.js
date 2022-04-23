@@ -13,12 +13,16 @@ class App extends Component {
     return (
       <div className="App">
         
-        <Greet></Greet>
+        <section class="showcase">
+          <video src='video.mov'autoPlay loop muted ></video>
+          <h1 class="title">ASCEND</h1>
+        </section>
+        {/* <Greet></Greet>
         <Para age='18'></Para>
         <a className='text-slate-500 hover:text-red-500' href="https://www.youtube.com/channel/UCzJuPvglj46GjRDtAk89VHA"> SUBSCRIBE TO ME YOUTUBER CHANNOL      </a>
         
         <Button></Button>
-        <Image></Image>
+        <Image></Image> */}
       </div>
     )
   }
