@@ -15,8 +15,10 @@ class App extends Component {
         
         <section class="showcase">
           <video src='video.mov'autoPlay loop muted ></video>
-          <h1 class="title">ASCEND</h1>
+          <h1 class="title">Coming soon</h1>
         </section>
+        
+        {/* <h1 class="text-blue-100">personal site, coming soon</h1> */}
         {/* <Greet></Greet>
         <Para age='18'></Para>
         <a className='text-slate-500 hover:text-red-500' href="https://www.youtube.com/channel/UCzJuPvglj46GjRDtAk89VHA"> SUBSCRIBE TO ME YOUTUBER CHANNOL      </a>
