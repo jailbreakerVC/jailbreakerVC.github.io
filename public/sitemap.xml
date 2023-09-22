@@ -14,7 +14,10 @@
         <loc>http://127.0.0.1:1111/blog/first/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/photo-page/photo-collage/</loc>
+        <loc>http://127.0.0.1:1111/photo-page/</loc>
         <lastmod>2023-09-22</lastmod>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:1111/resume/</loc>
     </url>
 </urlset>
