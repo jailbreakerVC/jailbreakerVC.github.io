@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://127.0.0.1:1111/</loc>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:1111/about/</loc>
+        <lastmod>2023-09-22</lastmod>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:1111/blog/</loc>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:1111/blog/first/</loc>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:1111/photo-page/photo-collage/</loc>
+        <lastmod>2023-09-22</lastmod>
+    </url>
+</urlset>

@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="robots" content="index, follow">
+
+
+
+
+
+
+
+
+
+
+<title>About Me</title>
+
+
+
+<meta name="title" content="About Me">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://127.0.0.1:1111/about/">
+
+<meta property="og:site_name" content="">
+
+
+<meta property="og:title" content="About Me">
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://127.0.0.1:1111/about/">
+
+<meta property="twitter:title" content="About Me">
+
+
+
+
+<link rel="canonical" href="http://127.0.0.1:1111/about/">
+
+
+
+
+<link rel="stylesheet" href="http://127.0.0.1:1111/css/style.css"/>
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+<nav class="navBar">
+    
+  <a
+    href="http://127.0.0.1:1111"
+    
+    >&#x2F;home&#x2F;</a
+  >
+     
+  <a
+    href="http://127.0.0.1:1111/about"
+    
+    >&#x2F;about&#x2F;</a
+  >
+     
+  <a
+    href="http://127.0.0.1:1111/photo-page/photo-collage"
+    
+    >&#x2F;photos&#x2F;</a
+  >
+     
+  <a
+    href="http://127.0.0.1:1111/blog"
+    
+    >&#x2F;blog&#x2F;</a
+  >
+   
+  <div class="themeSwitch">
+    <button
+      class="themeButton light"
+      onclick="setTheme('light')"
+      title="Light mode"
+    >
+      <svg class="icons icons__background">
+        <use
+          href="http://127.0.0.1:1111/icons.svg#lightMode"
+        ></use>
+      </svg>
+    </button>
+    <button
+      class="themeButton dark"
+      onclick="setTheme('dark')"
+      title="Dark mode"
+    >
+      <svg class="icons icons__background">
+        <use
+          href="http://127.0.0.1:1111/icons.svg#darkMode"
+        ></use>
+      </svg>
+    </button>
+  </div>
+</nav>
+
+<script>
+  const setTheme = (theme) => {
+    document.documentElement.className = theme;
+    localStorage.setItem("theme", theme);
+  };
+  const getTheme = () => {
+    const theme = localStorage.getItem("theme");
+    theme && setTheme(theme);
+  };
+  getTheme();
+</script>
+
+      </header>
+      <main>
+        
+<h1>About Me</h1>
+
+
+
+<p>Welcome to my personal website! I'm [Your Name], and I'm excited to share a bit about myself and my interests.</p>
+
+
+<p class="tagsData">
+
+</p>
+
+      </main>
+      <footer>
+        <hr>
+<div class=footContainer>
+  <div class="footLeft">
+    <p>Licensed under <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a><br>
+      Built with <a target="_blank" rel="noopener noreferrer" href="https://www.getzola.org">Zola</a> using <a target="_blank" rel="noopener noreferrer" href="https://github.com/Speyll/anemone">anemone</a> theme &amp; <a target="_blank" rel="noopener noreferrer" href="https://github.com/Speyll/veqev">veqev</a> colors.<br>
+    </p>
+  </div>
+  <div class="footRight">
+    <a class="icons__background" target="_blank" rel="noopener noreferrer" href="http://127.0.0.1:1111/atom.xml" title="Subscribe via RSS for updates."><svg class="icons icons__background"><use href="http://127.0.0.1:1111/icons.svg#rss"></use></svg></a>
+  </div>
+</div>
+      </footer>
+    </div>
+  </body>
+</html>
