@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://mysite-1fmilrqaz-jailbreakervc.vercel.app/sitemap.xml
+Sitemap: jailbreakerVC.github.io/sitemap.xml

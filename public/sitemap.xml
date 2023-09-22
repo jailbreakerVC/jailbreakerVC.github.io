@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/</loc>
+        <loc>jailbreakerVC.github.io/</loc>
     </url>
     <url>
-        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/about/</loc>
+        <loc>jailbreakerVC.github.io/about/</loc>
         <lastmod>2023-09-22</lastmod>
     </url>
     <url>
-        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/blog/</loc>
+        <loc>jailbreakerVC.github.io/blog/</loc>
     </url>
     <url>
-        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/blog/first/</loc>
+        <loc>jailbreakerVC.github.io/blog/first/</loc>
     </url>
     <url>
-        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/photo-page/</loc>
+        <loc>jailbreakerVC.github.io/photo-page/</loc>
         <lastmod>2023-09-22</lastmod>
     </url>
     <url>
-        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/resume/</loc>
+        <loc>jailbreakerVC.github.io/resume/</loc>
     </url>
 </urlset>
