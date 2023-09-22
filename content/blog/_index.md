@@ -1,4 +1,3 @@
 +++
+title = "Piece of my mind"
 +++
-
-there are my blogs bruv

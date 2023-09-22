@@ -1,6 +1,10 @@
 +++
 title = "About Me"
-date = 2023-09-22
+
 +++
 
-Welcome to my personal website! I'm [Your Name], and I'm excited to share a bit about myself and my interests.
+I'm Vijit, I am a developer, photographer, content creator and tech fanatic from India.
+
+I like mountain biking (even tho I live in the plains), the idea of skateboarding (because there are no skateparks) and photography.
+
+I once got into yo-yo tricks too, they're actually pretty fun.
