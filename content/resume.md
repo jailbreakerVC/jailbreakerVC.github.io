@@ -44,11 +44,11 @@ Created a website using Zola and deployed using Github Actions.
 
 Languages:
 
-> Python, JavaScript
+> Python, JavaScript, HTML
 
 Frameworks:
 
-> Flask, React
+> Flask, React, Zola
 
 Tools:
 
@@ -60,13 +60,13 @@ Tools:
 
 1. **First position AGRI-D Food hackathon**
 
-   > Conceptualised a forwards and futures trading platform for farms using IOTA blockchain
+   > Conceptualised a forwards and futures trading platform for farmers using IOTA blockchain.
 
    _Issued by AGRI-D Foundation,United Nations_
 
 2. **Champion Imagine Cup Junior 2021**
 
-   > Prototyped an application to detect fake medicines using image and pattern recognition
+   > Prototyped an application to detect fake medicines using image and pattern recognition.
 
    _Issued by Microsoft_
 
