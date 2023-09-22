@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://127.0.0.1:1111/</loc>
+        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/about/</loc>
+        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/about/</loc>
         <lastmod>2023-09-22</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/blog/</loc>
+        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/blog/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/blog/first/</loc>
+        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/blog/first/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/photo-page/</loc>
+        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/photo-page/</loc>
         <lastmod>2023-09-22</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1:1111/resume/</loc>
+        <loc>https://mysite-1fmilrqaz-jailbreakervc.vercel.app/resume/</loc>
     </url>
 </urlset>
