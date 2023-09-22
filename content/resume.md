@@ -21,7 +21,7 @@ In preparation for Google Summer of Code, I created a Web Interface to OWASP mar
 <div style="text-align: right"> <a href="https://github.com/jailbreakerVC/ShareNotes/tree/dev">Github</a> </div>
 
 **Buildspace S4 Nights and Weekends**
-Created an application for sharing notes with friends.
+Created an application for sharing notes. Implemented Auth, File upload, download functionality. Sharing functionality in the works.
 
 - React Native
 - Supabase
