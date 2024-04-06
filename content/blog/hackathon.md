@@ -1,7 +1,7 @@
 +++
 title = "My first offline hackathon - MLH Hack The mountain 2.0 "
-date
-++
+date = 2023-09-22
++++
 
 A few weeks ago I went to my first offline hackathon — Hack the Mountains 3.0. It was an MLH hackathon.
 
