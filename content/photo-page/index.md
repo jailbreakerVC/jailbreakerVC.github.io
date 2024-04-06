@@ -7,6 +7,6 @@ _Check out some of my favourite photos_
 {{ gallery() }}
 
 _wanna see more? check them out on my_
-<a href="https://github.com/jailbreakerVC/jailbreakervc.github.io"
+<a href="https://www.instagram.com/jailbreaker.vijit/"
       >Instagram
 </a>
